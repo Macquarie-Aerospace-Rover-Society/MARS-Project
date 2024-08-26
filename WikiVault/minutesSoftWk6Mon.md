@@ -56,3 +56,4 @@ None: carried from last meeting.
   - Living document until 28/08/2024
   - Aim is to indetify systems and their interactions
 - Harris: Examining the thermal control that would be needed in a real Lunar / Martian environment and how that heat could be handled.
+- Suhaas: I would like to set up a project on GitHub for task management.
