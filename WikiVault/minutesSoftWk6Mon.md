@@ -2,9 +2,8 @@
 
 ## Agenda
 
-Are we acutlly going to start to talking about the mainboard? e.g. jetson, ras pi etc... (btw im not there in person)?
-img go, since nothing is being archieved
-Who wrote this? we are talking in person - Adrian
+None: carried from last meeting.
+- Carl: Please do minutes properly
 
 ## Attendees
 - Sophie
