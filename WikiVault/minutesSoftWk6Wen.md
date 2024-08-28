@@ -90,3 +90,8 @@ batt--> fuse--> drive
 ## Action Items
 - Electrical and Software talk about the motor Reqs
   - 
+- Software to support controling motors
+  - Motor driver code
+- Software to investigate computer vision
+  - Software "mini"-projects
+- Structure team wants to know dimensions
