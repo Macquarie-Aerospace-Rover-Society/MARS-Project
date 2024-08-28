@@ -6,7 +6,15 @@ First meeting of this form
 
 ## Attendees
 - Andrew
-- 
+- Suhaas
+- Carl
+- Adrian
+- Jake
+- Darcy
+- Marni
+- Lewis
+- Tenzen
+- Wasil
 
 ## Minutes
 - Introduced the project
@@ -78,9 +86,6 @@ drive-->ass--> proc
 proc-->drive
 batt--> fuse--> drive
 ```
-
-## Software functions
-
 
 ## Action Items
 - Electrical and Software talk about the motor Reqs
