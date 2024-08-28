@@ -3,7 +3,7 @@ There is a [Critical design review](CDR.md) that must be submitted on 30th of oc
 
 
 ## III. Competition taks
-All tasks excluding the initial logistics task are scored out of a max 100 points. Since there are 5 tasks there is max 500 points available
+All tasks excluding the initial logistics task are scored out of a max 100 points. Since there are 4 tasks there is max 400 points available
 
 ### 8. Task Logistics
 
