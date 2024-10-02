@@ -21,6 +21,23 @@ Because we only ever set some thing up once this file documents the resources us
 6. Flash JetPack 6.0 GA image onto your microSD card.
 7. Power on to start developing on JetPack 6.
 
+### Process followed by Adrian
+
+1. Checked Version
+   - Version was found to be version 3.0
+2. Set up the SD card with the JetPack Image
+3. Powered on the Jetson
+   - Connected to the Jetson using the TTL method
+   - Arduino was used as the serial monitor BAUD 115200
+     - ESC Key press appeared to work
+     - Successfully updated to version 5.0
+   - Completion of software setup was not completed
+     - got to 12% and then demanded I access via a different port.
+     - Different port is the USB-C port on the front.
+       - Instructions assume a linux machine connecting using `screen` or `miniterm` on dev/???? **Interupted by windows update buffer was lost**
+4.
+  
+
 ### TTL setup
 Its possible to do an initial setup without a monitor, this requires a serial connection to the Jetson using its USART port on J14 (RXD (pin 3) and TXD (pin 4)) and GND (pin 7) for common digital reference.
 
@@ -58,3 +75,7 @@ flowchart
     %%style H stroke-width:2px,stroke-dasharray: 5 5
     %%style O fill:#fee
 ```
+
+## Appendix
+
+![Image showing what J14 pins attach to](./images/JetsonON-Breakout-J14.png)*J14 Breakout*
