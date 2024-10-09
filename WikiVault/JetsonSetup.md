@@ -35,7 +35,7 @@ Because we only ever set some thing up once this file documents the resources us
      - got to 12% and then demanded I access via a different port.
      - Different port is the USB-C port on the front.
        - Instructions assume a linux machine connecting using `screen` or `miniterm` on dev/???? **Interupted by windows update buffer was lost**
-4.
+4. 
   
 
 ### TTL setup
