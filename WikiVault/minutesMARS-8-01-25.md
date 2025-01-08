@@ -39,3 +39,8 @@
 ## Decisions
 - 500x800x300 box for parts on the robotic
 	- 
+
+# Signed stating validity
+- Adrian
+- 
+- 
