@@ -40,4 +40,4 @@ https://www.netwifiworks.com/Rocket-M.asp
 
 ---
 ## Cisco Topology layout
-![Topology Layout](WikiVault/images/MARS_Networking.drawio.png)
+![Topology Layout](images/MARS_Networking.drawio.png)
