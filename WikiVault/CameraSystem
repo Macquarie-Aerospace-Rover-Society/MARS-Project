@@ -1,0 +1,16 @@
+Camera System MVP:
+- 3 Cameras
+  - End Effector View
+  - Arm View
+  - Main Navigational 
+
+Testing for proof of concept:
+- Using a Laptop Camera to map out a small room in a 3d space using point cloud construction within ROS
+
+Stretch Goals:
+- 360 stitch view of the rover for live diagnostics
+
+Next Steps:
+- Complete proof of concept testing
+- Contact structures to consider camera mounting locations
+- Decide on cameras and functions associated (pan, zoom, rotate, etc.)
