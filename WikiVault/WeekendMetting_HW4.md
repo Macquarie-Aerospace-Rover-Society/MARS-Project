@@ -24,7 +24,7 @@
 
 ```mermaid
 flowchart LR
-    A[Base Rover] -->|Platform interface| B(Electrical)
+    A[Base Rover] --> B(Electrical)
     B --> C[IMU] --> ???
     B --> D[Motor Driver]
     B --> E[Main Computer - Jetson Orin Nano]
@@ -40,7 +40,7 @@ flowchart LR
     E -->|USB| J[Cameras]
     
     %% Robot Arm Integration
-    A --> |Extension| K[Robot Arm - N Degrees of Freedom]
+    A --> |Platform interface| K[Robot Arm - N Degrees of Freedom]
     K --> L[End-Effector]
     L --> M[Gripper]
     L --> N[Shovel]
