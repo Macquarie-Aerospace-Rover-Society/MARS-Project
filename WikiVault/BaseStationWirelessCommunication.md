@@ -1,8 +1,8 @@
 # Base Station Wireless Communication (WiFi)
 
-**Ubiquiti AM-Series**
-- 2G - 2.4Ghz Option
-- 5G - 5Ghz Options
+## Option 1: Ubiquiti AM-Series
+- 2G - 2.4Ghz Series
+- 5G - 5Ghz Series
 
 **2G Datasheet:**
 https://dl.ui.com/AirMax2GSectors.pdf
@@ -37,6 +37,24 @@ also:
 ---
 Here is the link to the **Rocket M Series** Access Point:
 https://www.netwifiworks.com/Rocket-M.asp
+
+
+## Option 2: Ubiquiti NanoStation Loco
+Parent link - https://ubwh.com.au/NanoStation-Loco/
+
+Reccomendation provided by UBWH Australia:
+- [LocoM2](https://ubwh.com.au/Ubiquiti/NanoStation-Loco/LocoM2)
+- [WHIP](https://ubwh.com.au/UBWH/Antennas-airMAX/ANT-WHIP-2G-02)
+- rpsma connection to Jetson
+- we need to switch it from airMax (proprietary to ubiquiti) to WiFi AP mode, guide [here](https://support.hostifi.com/en/articles/7913035-airmax-m-how-to-use-a-nanostation-as-an-outdoor-wifi-ap).
+
+This is what he recommended instead of us going with the basestation ones
+he said it specs as 45 degree but thats for km of range and we should get plenty for the 100m we want. This is pretty cheap as well and we don't need a rocket and antenna separate.
+Ships from WA and would be here in a week.
+- ~$20 via AusPost (road)
+- ~$38 via AusPost (air)
+
+> If we have any questions about this we should [contact UBWH Australia](https://ubwh.com.au/#:~:text=Secure%20Log%20Off-,HOW%20TO%20CONTACT%20US,-UBWH%20Australia%0A%2002) as they seem quite knowledgeable. 
 
 ---
 ## Cisco Topology layout
