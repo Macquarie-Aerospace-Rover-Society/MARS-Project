@@ -37,9 +37,47 @@ also:
 ---
 Here is the link to the **Rocket M Series** Access Point:
 https://www.netwifiworks.com/Rocket-M.asp
+---
+## Cisco Topology layout
+![Topology Layout](images/MARS_Networking.drawio.png)
+---
+**Price & Availability Considerations**
 
+**2.4Ghz WiFi**
+- Rocket M2 - [AU$161](https://provectech.com.au/products/ubiquiti-airmax-rocketm-2-ghz-basestation) + AU$15 Delivery(multiple sellers, however long lead time)
+- AirMax Sector 2G-15-120 - [AU$235](https://www.jw.com.au/product/ubiquiti-2-4-ghz-15-dbi-airmax-sector-2x2-basestation-sector-antenna) + AU$10 Delivery (Pickup Avail)
+**Total Cost: **AU$396 + AU$25/15/10/0 Shipping
 
-## Option 2: Ubiquiti NanoStation Loco
+> Another option shown in screenshot.
+
+**5Ghz Wifi**
+- Rocket M5 - [AU$284](https://www.salinapp.com.au/ubiquiti-rocket-m5-5ghz-802.11n-wifi-ap) + AU$16 Delivery (Pickup Avail)  
+- AirMax Sector 5G-16-120 - [AU$143](https://ubwh.com.au/Ubiquiti/Antennas-airMAX/AM-5G16-120) + AU$20 Delivery
+**Total Cost:** AU$447 + AU$16 Delivery
+
+> NOTE: Depending on where we source these from we may be able to reduce the cost of delivery and lead-time, I've attached the links to sources which would minimise both, but would require to be sourced from different places. Prices have been rounded up to the nearest integer for simplicity.
+
+Distributor Link:
+https://www.ui.com/distributors/
+
+**TLDR:** 2.4Ghz seems to be the cheaper option, however the availability of RocketM Series Access Points seem to be the biggest issue with the longest lead times.
+
+---
+Regarding 2.4MHz
+Max allowed radiation (EIRP) 4Watts / 36 dBm
+Although there is a different category for telecommand where it is 2Watts.
+
+Some guy talking about trying to follow the law at an airport
+https://higher-frequency.blogspot.com/2015/07/80211-eirp-laws-in-australia.html
+
+Legislation
+https://www.legislation.gov.au/F2015L01438/latest/text
+
+Summary
+https://wifiwizardofoz.com/wp-content/uploads/australian_802.11_eirp_transmit_power_limits.pdf
+---
+---
+## Option 2: Ubiquiti NanoStation Loco (Rejected)
 Parent link - https://ubwh.com.au/NanoStation-Loco/
 
 Reccomendation provided by UBWH Australia:
@@ -55,7 +93,3 @@ Ships from WA and would be here in a week.
 - ~$38 via AusPost (air)
 
 > If we have any questions about this we should [contact UBWH Australia](https://ubwh.com.au/#:~:text=Secure%20Log%20Off-,HOW%20TO%20CONTACT%20US,-UBWH%20Australia%0A%2002) as they seem quite knowledgeable. 
-
----
-## Cisco Topology layout
-![Topology Layout](images/MARS_Networking.drawio.png)
